@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37827.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blind75DSAPractice", "Blind75DSAPractice\Blind75DSAPractice.csproj", "{B4600830-9438-4997-A538-479D6098AFA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4600830-9438-4997-A538-479D6098AFA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4600830-9438-4997-A538-479D6098AFA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4600830-9438-4997-A538-479D6098AFA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4600830-9438-4997-A538-479D6098AFA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9F14760-006A-4C21-9375-942AC88278C9}
+	EndGlobalSection
+EndGlobal
